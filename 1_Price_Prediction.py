@@ -119,6 +119,7 @@ with st.sidebar:
 
 # Title for the streamlit app
 st.title('Electricity Price Prediction 🌦')
+title = "📊 Electricity Price Prediction 🌦"
 
 # Subtitle
 st.markdown("""

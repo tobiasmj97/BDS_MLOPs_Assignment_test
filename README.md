@@ -40,7 +40,7 @@ Inspiration for code snippets has been taken from the following advanced tutoria
 ## Data Pipeline:
 The overall architecture of the Electricity Pipeline is illustrated below. Inspiration is taken from [MLOPs Lecture 2](https://github.com/saoter/SDS24_MLOps_L1/blob/main//MLOps_Lecture_2_slides.pdf).
 
-![electricity_pipeline.png](images/electricity_pipeline.png)
+![electricity_pipeline.png](assigment/images/electricity_pipeline.png)
 
 ## Data:
 The data used comes from the following sources:
